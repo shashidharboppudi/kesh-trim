@@ -1,0 +1,9 @@
+.logo{
+    border-radius: 7px;
+    box-shadow: 1px 1px 5px rgb(63, 63, 63);
+    padding: 10px;
+    background-color: rgb(42, 42, 42);
+    color: rgb(164, 164, 164);
+    font-size: 25px;
+    font-weight: 500;
+}
